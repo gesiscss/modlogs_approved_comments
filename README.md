@@ -15,7 +15,7 @@ The dataset contains moderator-approved comments on 49 subreddits engaging in an
 
 If you use this dataset, please cite the paper:
 ```
-@inproceedings{Samory2021,
+@inproceedings{samory2021positive,
 author = {Samory, Mattia},
 booktitle = {Proceedings of the 15th International AAAI Conference on Web and Social Media},
 title = {{On Positive Moderation Decisions}},
